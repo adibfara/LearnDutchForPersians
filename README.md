@@ -4,8 +4,8 @@ A free, self-study Dutch course for Persian (Farsi) speakers, covering **A0 → 
 
 <span dir="rtl" lang="fa">یک دوره خودآموز رایگان هلندی برای فارسی‌زبانان، سطح A0 تا A1، با توضیحات دوزبانه انگلیسی/فارسی و آزمون‌های تعاملی.</span>
 
-🔗 **Live site:** https://adibfara.github.io/LearnDutch/
-📦 **Repo:** https://github.com/adibfara/LearnDutch
+🔗 **Live site:** https://adibfara.github.io/LearnDutchForPersians/
+📦 **Repo:** https://github.com/adibfara/LearnDutchForPersians
 
 ## Contents
 

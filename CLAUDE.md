@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A static Jekyll site: a free, bilingual (English/Persian) self-study Dutch course, A0→A1 level. No external Jekyll theme — all layouts/includes/CSS/JS are hand-rolled. Deployed via GitHub Pages at `https://adibfara.github.io/LearnDutch/`.
+A static Jekyll site: a free, bilingual (English/Persian) self-study Dutch course, A0→A1 level. No external Jekyll theme — all layouts/includes/CSS/JS are hand-rolled. Deployed via GitHub Pages at `https://adibfara.github.io/LearnDutchForPersians/`.
 
 ## Commands
 
@@ -38,4 +38,4 @@ The `quiz` front-matter array is the single source of truth for a lesson's quiz 
 
 ## GitHub Pages deployment
 
-`_config.yml` sets `baseurl: "/LearnDutch"` and `url: "https://adibfara.github.io"` because this is a **project site**, not a user/org site — every internal link and asset reference in layouts/includes must go through Liquid's `relative_url` filter (e.g. `{{ '/assets/js/lang.js' | relative_url }}`) rather than a bare absolute path, or it will 404 once deployed (works locally at `localhost:4000/` without the prefix, breaks in prod without the filter). GitHub Pages builds this repo directly from `main` with its built-in Jekyll (Settings → Pages → Deploy from a branch) — there is no GitHub Actions workflow.
+`_config.yml` sets `baseurl: "/LearnDutchForPersians"` and `url: "https://adibfara.github.io"` because this is a **project site**, not a user/org site — every internal link and asset reference in layouts/includes must go through Liquid's `relative_url` filter (e.g. `{{ '/assets/js/lang.js' | relative_url }}`) rather than a bare absolute path, or it will 404 once deployed (works locally at `localhost:4000/` without the prefix, breaks in prod without the filter). GitHub Pages builds this repo directly from `main` with its built-in Jekyll (Settings → Pages → Deploy from a branch) — there is no GitHub Actions workflow.

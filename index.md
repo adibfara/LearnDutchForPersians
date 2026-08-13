@@ -37,9 +37,8 @@ New here? Read **[How to use this course](/about/)** first — it takes two minu
   <li data-slug="{{ l.slug }}">
     <div class="lesson-list-main">
       <a href="{{ l.url | relative_url }}">
-        {% if l.quiz_lesson %}📝{% else %}{{ l.order }}.{% endif %} {{ l.title }}
+        {% if l.quiz_lesson %}📝{% else %}{{ l.order }}.{% endif %} {{ l.title }}{% if l.title_fa %} <span class="lesson-list-title-fa" dir="rtl" lang="fa">{{ l.title_fa }}</span>{% endif %}
       </a>
-      {% if l.title_fa %}<span class="lesson-list-title-fa" dir="rtl" lang="fa">{{ l.title_fa }}</span>{% endif %}
     </div>
     <div class="lesson-list-badges">
       <span class="lesson-progress-badge" data-progress-slot></span>

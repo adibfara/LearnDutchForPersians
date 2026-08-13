@@ -3,7 +3,7 @@ description: >-
   A free A0-A1 self-study Dutch course for Persian (Farsi) speakers —
   یک دوره خودآموز رایگان هلندی سطح A0-A1 برای فارسی‌زبانان
 lang: en
-baseurl: "/LearnDutch"
+baseurl: "/LearnDutchForPersians"
 url: "https://adibfara.github.io"
 
 markdown: kramdown

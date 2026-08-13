@@ -45,7 +45,7 @@
         summary.textContent = "You haven't started any lessons yet — pick one below to begin!";
         summary.setAttribute("dir", "ltr");
       } else {
-        summary.textContent = "You've viewed " + viewedCount + " of " + total + " lessons.";
+        summary.textContent = "You've completed " + viewedCount + " of " + total + " lessons.";
       }
     }
   }
