@@ -1,0 +1,34 @@
+title: Dutch for Persians
+description: >-
+  A free A0-A1 self-study Dutch course for Persian (Farsi) speakers —
+  یک دوره خودآموز رایگان هلندی سطح A0-A1 برای فارسی‌زبانان
+lang: en
+baseurl: ""
+url: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+collections:
+  lessons:
+    output: true
+    permalink: /lessons/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: lessons
+    values:
+      layout: lesson
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules

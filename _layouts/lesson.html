@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<article class="lesson">
+  <header class="lesson-header">
+    <p class="lesson-kicker">Lesson {{ page.order }} · <span class="level-badge level-{{ page.level }}">{{ page.level }}</span></p>
+    <h1>{{ page.title }}</h1>
+    {% if page.title_fa %}<p class="fa-title" dir="rtl" lang="fa">{{ page.title_fa }}</p>{% endif %}
+  </header>
+
+  {% if page.objectives %}
+  <section class="objectives-box">
+    <h2>🎯 By the end of this lesson, you can…</h2>
+    <ul>
+      {% for obj in page.objectives %}
+      <li>
+        <span class="obj-en">{{ obj.en }}</span>
+        {% if obj.fa %}<span class="obj-fa" dir="rtl" lang="fa">{{ obj.fa }}</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  <div class="lesson-body">
+    {{ content }}
+  </div>
+
+  {% if page.quiz %}
+    {% include quiz.html quiz=page.quiz id=page.slug %}
+  {% endif %}
+
+  {% include nav.html %}
+</article>

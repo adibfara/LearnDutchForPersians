@@ -1,0 +1,8 @@
+{% assign quiz_id = "quiz-" | append: include.id %}
+<section class="quiz-block" id="{{ quiz_id }}">
+  <h2>📝 Practice / <span dir="rtl" lang="fa">تمرین</span></h2>
+  <div class="quiz-root" data-quiz-id="{{ quiz_id }}"></div>
+  <script type="application/json" class="quiz-data">
+    {{ include.quiz | jsonify }}
+  </script>
+</section>

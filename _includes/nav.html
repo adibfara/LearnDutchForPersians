@@ -1,0 +1,25 @@
+{% assign sorted = site.lessons | sort: "order" %}
+{% assign prev_lesson = nil %}
+{% assign next_lesson = nil %}
+{% for l in sorted %}
+  {% if l.order == page.order %}
+    {% assign idx = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+{% if idx or idx == 0 %}
+  {% assign prev_idx = idx | minus: 1 %}
+  {% assign next_idx = idx | plus: 1 %}
+  {% if prev_idx >= 0 %}{% assign prev_lesson = sorted[prev_idx] %}{% endif %}
+  {% assign next_lesson = sorted[next_idx] %}
+{% endif %}
+
+<nav class="lesson-pager">
+  {% if prev_lesson %}
+    <a class="pager-prev" href="{{ prev_lesson.url | relative_url }}">← {{ prev_lesson.title }}</a>
+  {% else %}
+    <span></span>
+  {% endif %}
+  {% if next_lesson %}
+    <a class="pager-next" href="{{ next_lesson.url | relative_url }}">{{ next_lesson.title }} →</a>
+  {% endif %}
+</nav>
