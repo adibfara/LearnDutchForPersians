@@ -50,14 +50,14 @@ Persian verb conjugation works very differently (root + person-endings on a diff
 2. Remove **-en** to get the stem (stam): **werk**
 3. Conjugate:
 
-| Pronoun | Form | Example |
-|---|---|---|
-| ik | stem | ik werk |
-| jij / u | stem + t | jij werkt / u werkt |
-| hij / zij / het | stem + t | hij werkt |
-| wij | infinitive | wij werken |
-| jullie | infinitive | jullie werken |
-| zij (they) | infinitive | zij werken |
+| Pronoun | Form | Example | Pronunciation |
+|---|---|---|---|
+| ik | stem | ik werk | ik verk |
+| jij / u | stem + t | jij werkt / u werkt | yay verkt / üü verkt |
+| hij / zij / het | stem + t | hij werkt | hey verkt |
+| wij | infinitive | wij werken | vay VER-ken |
+| jullie | infinitive | jullie werken | YUL-lee VER-ken |
+| zij (they) | infinitive | zij werken | zay VER-ken |
 
 > 💡 Rule of thumb: **"ik" = bare stem, "jij/hij/zij" = stem + t, everyone plural = full infinitive."**
 
@@ -69,34 +69,34 @@ Some stems change spelling to keep the vowel sound correct (open/closed syllable
 
 ### zijn (to be)
 
-| Pronoun | Form |
-|---|---|
-| ik | ben |
-| jij / u | bent |
-| hij/zij/het | is |
-| wij/jullie/zij | zijn |
+| Pronoun | Form | Pronunciation |
+|---|---|---|
+| ik | ben | ben |
+| jij / u | bent | bent |
+| hij/zij/het | is | is |
+| wij/jullie/zij | zijn | zayn |
 
 ### hebben (to have)
 
-| Pronoun | Form |
-|---|---|
-| ik | heb |
-| jij / u | hebt / heeft |
-| hij/zij/het | heeft |
-| wij/jullie/zij | hebben |
+| Pronoun | Form | Pronunciation |
+|---|---|---|
+| ik | heb | hep |
+| jij / u | hebt / heeft | hept / hayft |
+| hij/zij/het | heeft | hayft |
+| wij/jullie/zij | hebben | HEB-ben |
 
 > ⚠️ Dutch uses **hebben** (to have) for age and some feelings differently than you might expect from Persian — actually age uses **zijn**: "Ik ben 20 jaar" (I am 20 years), not "I have 20 years" as in Persian «۲۰ سال دارم» or French. But hunger/thirst use **hebben**: "Ik heb honger" (I have hunger = I'm hungry) — closer to the Persian pattern.
 
 ## Example sentences
 
-| Dutch | English |
-|---|---|
-| Ik werk in Utrecht. | I work in Utrecht. |
-| Jij leert Nederlands. | You are learning Dutch. |
-| Zij woont in Rotterdam. | She lives in Rotterdam. |
-| Wij spreken Perzisch en Nederlands. | We speak Persian and Dutch. |
-| Ik ben moe. | I am tired. |
-| Hij heeft een fiets. | He has a bicycle. |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Ik werk in Utrecht. | ik verk in ÜÜ-trekht | I work in Utrecht. | <span dir="rtl" lang="fa">من در اوترخت کار می‌کنم.</span> |
+| Jij leert Nederlands. | yay layrt NAY-der-lants | You are learning Dutch. | <span dir="rtl" lang="fa">تو داری هلندی یاد می‌گیری.</span> |
+| Zij woont in Rotterdam. | zay voont in RO-ter-dam | She lives in Rotterdam. | <span dir="rtl" lang="fa">او در روتردام زندگی می‌کند.</span> |
+| Wij spreken Perzisch en Nederlands. | vay SPRAY-ken per-ZEES en NAY-der-lants | We speak Persian and Dutch. | <span dir="rtl" lang="fa">ما فارسی و هلندی صحبت می‌کنیم.</span> |
+| Ik ben moe. | ik ben moo | I am tired. | <span dir="rtl" lang="fa">من خسته‌ام.</span> |
+| Hij heeft een fiets. | hey hayft en feets | He has a bicycle. | <span dir="rtl" lang="fa">او یک دوچرخه دارد.</span> |
 
 ## Summary
 

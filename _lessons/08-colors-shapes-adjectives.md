@@ -44,30 +44,30 @@ quiz:
 
 ## Colors / <span dir="rtl" lang="fa">رنگ‌ها</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| rood | red | قرمز |
-| blauw | blue | آبی |
-| geel | yellow | زرد |
-| groen | green | سبز |
-| oranje | orange | نارنجی |
-| paars | purple | بنفش |
-| roze | pink | صورتی |
-| bruin | brown | قهوه‌ای |
-| zwart | black | سیاه |
-| wit | white | سفید |
-| grijs | gray | خاکستری |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| rood | roht | red | قرمز |
+| blauw | blow | blue | آبی |
+| geel | khayl | yellow | زرد |
+| groen | khroon | green | سبز |
+| oranje | oh-RAN-ye | orange | نارنجی |
+| paars | paars | purple | بنفش |
+| roze | ROH-ze | pink | صورتی |
+| bruin | bröyn | brown | قهوه‌ای |
+| zwart | zvart | black | سیاه |
+| wit | vit | white | سفید |
+| grijs | khrays | gray | خاکستری |
 
 ## Shapes / <span dir="rtl" lang="fa">اشکال</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| de cirkel | circle | دایره |
-| het vierkant | square | مربع |
-| de driehoek | triangle | مثلث |
-| de rechthoek | rectangle | مستطیل |
-| de ster | star | ستاره |
-| het hart | heart | قلب |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| de cirkel | de SIR-kel | circle | دایره |
+| het vierkant | het VEER-kant | square | مربع |
+| de driehoek | de DREE-hook | triangle | مثلث |
+| de rechthoek | de REKHT-hook | rectangle | مستطیل |
+| de ster | de ster | star | ستاره |
+| het hart | het hart | heart | قلب |
 
 ## Adjective agreement: the -e rule
 
@@ -84,23 +84,25 @@ This is one of Dutch's quirkiest grammar rules, and it connects directly to the 
 
 ## Example sentences
 
-- **Ik heb een blauwe auto.** — I have a blue car. (auto is a de-word → blauwe)
-- **Het grote huis is mooi.** — The big house is beautiful. (het + definite → grote)
-- **Zij draagt een groen shirt.** — She wears a green shirt. (shirt is het-word + een → no -e)
-- **De kinderen tekenen een gele ster.** — The children draw a yellow star.
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Ik heb een blauwe auto. | ik hep en BLOW-we OW-toh | I have a blue car. (auto is a de-word → blauwe) | <span dir="rtl" lang="fa">من یک ماشین آبی دارم.</span> |
+| Het grote huis is mooi. | het KHROH-te höys is moy | The big house is beautiful. (het + definite → grote) | <span dir="rtl" lang="fa">خانه بزرگ زیباست.</span> |
+| Zij draagt een groen shirt. | zay draakht en khroon shirt | She wears a green shirt. (shirt is het-word + een → no -e) | <span dir="rtl" lang="fa">او یک پیراهن سبز می‌پوشد.</span> |
+| De kinderen tekenen een gele ster. | de KIN-de-ren TAY-ke-nen en KHAY-le ster | The children draw a yellow star. | <span dir="rtl" lang="fa">بچه‌ها یک ستاره زرد می‌کشند.</span> |
 
 ## More common adjectives
 
-| Dutch | English | Persian |
-|---|---|---|
-| groot | big | بزرگ |
-| klein | small | کوچک |
-| mooi | beautiful | زیبا |
-| lelijk | ugly | زشت |
-| nieuw | new | جدید |
-| oud | old | قدیمی |
-| snel | fast | سریع |
-| langzaam | slow | آهسته |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| groot | khroht | big | بزرگ |
+| klein | klayn | small | کوچک |
+| mooi | moy | beautiful | زیبا |
+| lelijk | LAY-lek | ugly | زشت |
+| nieuw | nee-yoo | new | جدید |
+| oud | owt | old | قدیمی |
+| snel | snel | fast | سریع |
+| langzaam | LANG-zaam | slow | آهسته |
 
 ## Summary
 

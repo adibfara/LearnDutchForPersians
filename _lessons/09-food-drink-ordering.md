@@ -44,66 +44,68 @@ quiz:
 
 ## Meals / <span dir="rtl" lang="fa">وعده‌های غذایی</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| het ontbijt | breakfast | صبحانه |
-| de lunch | lunch | ناهار |
-| het avondeten / diner | dinner | شام |
-| de snack | snack | میان‌وعده |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| het ontbijt | het ont-BAYT | breakfast | صبحانه |
+| de lunch | de lunsh | lunch | ناهار |
+| het avondeten / diner | het AA-vont-ay-ten / dee-NAY | dinner | شام |
+| de snack | de snek | snack | میان‌وعده |
 
 ## Food / <span dir="rtl" lang="fa">غذا</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| het brood | bread | نان |
-| de kaas | cheese | پنیر |
-| het vlees | meat | گوشت |
-| de kip | chicken | مرغ |
-| de vis | fish | ماهی |
-| de groente | vegetable(s) | سبزیجات |
-| het fruit | fruit | میوه |
-| de appel | apple | سیب |
-| de rijst | rice | برنج |
-| het ei | egg | تخم‌مرغ |
-| de soep | soup | سوپ |
-| de salade | salad | سالاد |
-| de suiker | sugar | شکر |
-| het zout | salt | نمک |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| het brood | het broht | bread | نان |
+| de kaas | de kaas | cheese | پنیر |
+| het vlees | het vlays | meat | گوشت |
+| de kip | de kip | chicken | مرغ |
+| de vis | de vis | fish | ماهی |
+| de groente | de KHROON-te | vegetable(s) | سبزیجات |
+| het fruit | het fröyt | fruit | میوه |
+| de appel | de AP-pel | apple | سیب |
+| de rijst | de rayst | rice | برنج |
+| het ei | het ay | egg | تخم‌مرغ |
+| de soep | de soop | soup | سوپ |
+| de salade | de saa-LAA-de | salad | سالاد |
+| de suiker | de SÖY-ker | sugar | شکر |
+| het zout | het zowt | salt | نمک |
 
 ## Drinks / <span dir="rtl" lang="fa">نوشیدنی‌ها</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| het water | water | آب |
-| de koffie | coffee | قهوه |
-| de thee | tea | چای |
-| de melk | milk | شیر |
-| het sap | juice | آبمیوه |
-| het bier | beer | آبجو |
-| de wijn | wine | شراب |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| het water | het VAA-ter | water | آب |
+| de koffie | de KOF-fee | coffee | قهوه |
+| de thee | de tay | tea | چای |
+| de melk | de melk | milk | شیر |
+| het sap | het sap | juice | آبمیوه |
+| het bier | het beer | beer | آبجو |
+| de wijn | de vayn | wine | شراب |
 
 ## Ordering phrases / <span dir="rtl" lang="fa">عبارات سفارش دادن</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| Ik wil graag... | I would like... | من می‌خواهم... |
-| Mag ik... alstublieft? | May I have... please? | می‌توانم ... داشته باشم لطفاً؟ |
-| Wat wilt u drinken? | What would you like to drink? | چه می‌نوشید؟ |
-| De rekening, alstublieft. | The bill, please. | صورتحساب لطفاً. |
-| Ik heb honger / dorst. | I'm hungry / thirsty. | گرسنه‌ام / تشنه‌ام. |
-| Lekker! | Tasty! / Nice! | خوشمزه! |
-| Smakelijk eten! | Enjoy your meal! | نوش جان! |
-| Ik ben vegetariër. | I'm vegetarian. | من گیاه‌خوارم. |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Ik wil graag... | ik vil khraakh... | I would like... | من می‌خواهم... |
+| Mag ik... alstublieft? | makh ik... ALS-tü-bleeft? | May I have... please? | می‌توانم ... داشته باشم لطفاً؟ |
+| Wat wilt u drinken? | vat vilt üü DRIN-ken? | What would you like to drink? | چه می‌نوشید؟ |
+| De rekening, alstublieft. | de RAY-ke-ning, ALS-tü-bleeft | The bill, please. | صورتحساب لطفاً. |
+| Ik heb honger / dorst. | ik hep HONG-er / dorst | I'm hungry / thirsty. | گرسنه‌ام / تشنه‌ام. |
+| Lekker! | LEK-ker! | Tasty! / Nice! | خوشمزه! |
+| Smakelijk eten! | SMAA-ke-lek AY-ten! | Enjoy your meal! | نوش جان! |
+| Ik ben vegetariër. | ik ben vay-khay-TAA-ree-yer | I'm vegetarian. | من گیاه‌خوارم. |
 
 ## Mini dialogue: At a café
 
-> **Ober (waiter):** Goedemiddag! Wat wilt u drinken?
-> **Ali:** Ik wil graag een koffie, alstublieft.
-> **Ober:** En iets te eten?
-> **Ali:** Mag ik een broodje kaas?
-> **Ober:** Natuurlijk! Alstublieft.
-> **Ali:** Dank u wel. Dit is heel lekker!
-> **Ober:** Smakelijk eten!
+| Speaker | Dutch | Pronunciation | Persian |
+|---|---|---|---|
+| Ober (waiter) | Goedemiddag! Wat wilt u drinken? | KHOO-de-MID-dakh! vat vilt üü DRIN-ken? | <span dir="rtl" lang="fa">ظهر بخیر! چه می‌نوشید؟</span> |
+| Ali | Ik wil graag een koffie, alstublieft. | ik vil khraakh en KOF-fee, ALS-tü-bleeft | <span dir="rtl" lang="fa">من یک قهوه می‌خواهم، لطفاً.</span> |
+| Ober | En iets te eten? | en eets te AY-ten? | <span dir="rtl" lang="fa">و چیزی برای خوردن؟</span> |
+| Ali | Mag ik een broodje kaas? | makh ik en BROHT-ye kaas? | <span dir="rtl" lang="fa">می‌توانم یک ساندویچ پنیر داشته باشم؟</span> |
+| Ober | Natuurlijk! Alstublieft. | naa-TÜÜR-lek! ALS-tü-bleeft | <span dir="rtl" lang="fa">البته! بفرمایید.</span> |
+| Ali | Dank u wel. Dit is heel lekker! | dank üü vel. dit is hayl LEK-ker! | <span dir="rtl" lang="fa">خیلی ممنون. این خیلی خوشمزه است!</span> |
+| Ober | Smakelijk eten! | SMAA-ke-lek AY-ten! | <span dir="rtl" lang="fa">نوش جان!</span> |
 
 ## Summary
 

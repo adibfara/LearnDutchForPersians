@@ -44,35 +44,37 @@ quiz:
 
 ## Question words / <span dir="rtl" lang="fa">کلمات پرسشی</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| wie | who | چه کسی |
-| wat | what | چه |
-| waar | where | کجا |
-| wanneer | when | کی |
-| waarom | why | چرا |
-| hoe | how | چطور |
-| welke | which | کدام |
-| hoeveel | how much/many | چقدر |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| wie | vee | who | چه کسی |
+| wat | vat | what | چه |
+| waar | vaar | where | کجا |
+| wanneer | va-NAYR | when | کی |
+| waarom | VAA-rom | why | چرا |
+| hoe | hoo | how | چطور |
+| welke | VEL-ke | which | کدام |
+| hoeveel | HOO-vayl | how much/many | چقدر |
 
 ## Forming yes/no questions
 
 Statements follow V2 word order (verb in 2nd position — see [[04-articles-pronouns-sentence-structure]]). Yes/no questions **invert** to put the verb **first**:
 
-| Statement | Question |
-|---|---|
-| Jij werkt vandaag. (You work today.) | Werk jij vandaag? (Do you work today?) |
-| Zij spreekt Nederlands. | Spreekt zij Nederlands? |
-| Hij is moe. | Is hij moe? |
+| Statement | Question | Pronunciation |
+|---|---|---|
+| Jij werkt vandaag. (You work today.) | Werk jij vandaag? (Do you work today?) | verk yay van-DAAKH? |
+| Zij spreekt Nederlands. | Spreekt zij Nederlands? | spraykt zay NAY-der-lants? |
+| Hij is moe. | Is hij moe? | is hey moo? |
 
 ## Forming open questions (with question words)
 
 Question word + verb + subject:
 
-- **Waar woon jij?** — Where do you live?
-- **Wat eet je?** — What are you eating?
-- **Hoe laat is het?** — What time is it? *(from [[03-days-months-time]])*
-- **Waarom ben je moe?** — Why are you tired?
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Waar woon jij? | vaar vohn yay? | Where do you live? | <span dir="rtl" lang="fa">تو کجا زندگی می‌کنی؟</span> |
+| Wat eet je? | vat ayt ye? | What are you eating? | <span dir="rtl" lang="fa">چی می‌خوری؟</span> |
+| Hoe laat is het? | hoo laat is het? | What time is it? *(from [[03-days-months-time]])* | <span dir="rtl" lang="fa">ساعت چنده؟</span> |
+| Waarom ben je moe? | VAA-rom ben ye moo? | Why are you tired? | <span dir="rtl" lang="fa">چرا خسته‌ای؟</span> |
 
 ## Negation: niet vs geen
 
@@ -89,13 +91,13 @@ This distinction has no direct Persian equivalent (Persian just adds نـ to the
 
 ## Example sentences
 
-| Dutch | English |
-|---|---|
-| Ik heb geen tijd. | I don't have time. |
-| Ik ben niet moe. | I am not tired. |
-| Zij drinkt geen koffie. | She doesn't drink (any) coffee. |
-| Hij ziet zijn broer niet. | He doesn't see his brother. |
-| Wij hebben geen kinderen. | We don't have children. |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Ik heb geen tijd. | ik hep khayn tayt | I don't have time. | <span dir="rtl" lang="fa">وقت ندارم.</span> |
+| Ik ben niet moe. | ik ben neet moo | I am not tired. | <span dir="rtl" lang="fa">خسته نیستم.</span> |
+| Zij drinkt geen koffie. | zay drinkt khayn KOF-fee | She doesn't drink (any) coffee. | <span dir="rtl" lang="fa">او قهوه نمی‌نوشد.</span> |
+| Hij ziet zijn broer niet. | hey zeet zayn broor neet | He doesn't see his brother. | <span dir="rtl" lang="fa">او برادرش را نمی‌بیند.</span> |
+| Wij hebben geen kinderen. | vay HEB-ben khayn KIN-de-ren | We don't have children. | <span dir="rtl" lang="fa">ما بچه نداریم.</span> |
 
 ## Summary
 

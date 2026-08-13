@@ -44,64 +44,66 @@ quiz:
 
 ## Family members / <span dir="rtl" lang="fa">اعضای خانواده</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| de vader | father | پدر |
-| de moeder | mother | مادر |
-| de ouders | parents | والدین |
-| de zoon | son | پسر |
-| de dochter | daughter | دختر |
-| het kind / de kinderen | child / children | بچه / بچه‌ها |
-| de broer | brother | برادر |
-| de zus | sister | خواهر |
-| de opa | grandfather | پدربزرگ |
-| de oma | grandmother | مادربزرگ |
-| de oom | uncle | عمو/دایی |
-| de tante | aunt | عمه/خاله |
-| de neef | nephew / male cousin | برادرزاده / پسرعمو |
-| de nicht | niece / female cousin | خواهرزاده / دخترعمو |
-| de man | husband / man | همسر (مرد) / مرد |
-| de vrouw | wife / woman | همسر (زن) / زن |
-| de familie | family | خانواده |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| de vader | de VAA-der | father | پدر |
+| de moeder | de MOO-der | mother | مادر |
+| de ouders | de OW-ders | parents | والدین |
+| de zoon | de zohn | son | پسر |
+| de dochter | de DOKH-ter | daughter | دختر |
+| het kind / de kinderen | het kint / de KIN-de-ren | child / children | بچه / بچه‌ها |
+| de broer | de broor | brother | برادر |
+| de zus | de zus | sister | خواهر |
+| de opa | de OH-paa | grandfather | پدربزرگ |
+| de oma | de OH-maa | grandmother | مادربزرگ |
+| de oom | de ohm | uncle | عمو/دایی |
+| de tante | de TAN-te | aunt | عمه/خاله |
+| de neef | de nayf | nephew / male cousin | برادرزاده / پسرعمو |
+| de nicht | de nikht | niece / female cousin | خواهرزاده / دخترعمو |
+| de man | de man | husband / man | همسر (مرد) / مرد |
+| de vrouw | de vrow | wife / woman | همسر (زن) / زن |
+| de familie | de faa-MEE-lee | family | خانواده |
 
 ## Possessive pronouns / <span dir="rtl" lang="fa">ضمایر ملکی</span>
 
-| Dutch | English |
-|---|---|
-| mijn | my |
-| jouw / je | your (informal) |
-| uw | your (formal) |
-| zijn | his |
-| haar | her |
-| ons / onze | our |
-| jullie | your (plural) |
-| hun | their |
+| Dutch | Pronunciation | English |
+|---|---|---|
+| mijn | mayn | my |
+| jouw / je | yow / ye | your (informal) |
+| uw | üü | your (formal) |
+| zijn | zayn | his |
+| haar | haar | her |
+| ons / onze | ons / ON-ze | our |
+| jullie | YUL-lee | your (plural) |
+| hun | hun | their |
 
 > 💡 **ons vs onze:** like de/het for nouns, "our" changes form: **ons huis** (het-word) but **onze auto** (de-word). This mirrors the de/het split from [[04-articles-pronouns-sentence-structure]].
 
 ## Describing people / <span dir="rtl" lang="fa">توصیف افراد</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| lang | tall | قدبلند |
-| kort / klein | short | کوتاه/کوچک |
-| oud | old | پیر/مسن |
-| jong | young | جوان |
-| aardig | friendly/kind | مهربان |
-| grappig | funny | بامزه |
-| slim | smart | باهوش |
-| druk | busy | شلوغ/پرمشغله |
-| moe | tired | خسته |
-| blij | happy | خوشحال |
-| verdrietig | sad | غمگین |
-| boos | angry | عصبانی |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| lang | lang | tall | قدبلند |
+| kort / klein | kort / klayn | short | کوتاه/کوچک |
+| oud | owt | old | پیر/مسن |
+| jong | yong | young | جوان |
+| aardig | AAR-dikh | friendly/kind | مهربان |
+| grappig | KHRAP-pikh | funny | بامزه |
+| slim | slim | smart | باهوش |
+| druk | druk | busy | شلوغ/پرمشغله |
+| moe | moo | tired | خسته |
+| blij | blay | happy | خوشحال |
+| verdrietig | ver-DREE-tikh | sad | غمگین |
+| boos | bohs | angry | عصبانی |
 
 ## Example sentences
 
-- **Dit is mijn moeder. Zij is aardig.** — This is my mother. She is kind.
-- **Mijn broer is lang en slim.** — My brother is tall and smart.
-- **Hoeveel broers en zussen heb je?** — How many brothers and sisters do you have?
-- **Ik heb twee zussen en één broer.** — I have two sisters and one brother.
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Dit is mijn moeder. Zij is aardig. | dit is mayn MOO-der. zay is AAR-dikh | This is my mother. She is kind. | <span dir="rtl" lang="fa">این مادر من است. او مهربان است.</span> |
+| Mijn broer is lang en slim. | mayn broor is lang en slim | My brother is tall and smart. | <span dir="rtl" lang="fa">برادرم قدبلند و باهوش است.</span> |
+| Hoeveel broers en zussen heb je? | HOO-vayl broors en ZUS-sen hep ye | How many brothers and sisters do you have? | <span dir="rtl" lang="fa">چند تا برادر و خواهر داری؟</span> |
+| Ik heb twee zussen en één broer. | ik hep tway ZUS-sen en ayn broor | I have two sisters and one brother. | <span dir="rtl" lang="fa">من دو خواهر و یک برادر دارم.</span> |
 
 ## Summary
 

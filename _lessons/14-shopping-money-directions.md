@@ -44,66 +44,72 @@ quiz:
 
 ## Shopping vocabulary / <span dir="rtl" lang="fa">واژگان خرید</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| de winkel | shop/store | مغازه |
-| het geld | money | پول |
-| de prijs | price | قیمت |
-| goedkoop | cheap | ارزان |
-| duur | expensive | گران |
-| de korting | discount | تخفیف |
-| betalen | to pay | پرداخت کردن |
-| kopen | to buy | خریدن |
-| de kassa | checkout/register | صندوق |
-| contant | cash | نقد |
-| met kaart | by card | با کارت |
-| het wisselgeld | change (money back) | پول خرد/باقی‌مانده |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| de winkel | de VIN-kel | shop/store | مغازه |
+| het geld | het khelt | money | پول |
+| de prijs | de prays | price | قیمت |
+| goedkoop | khoot-KOHP | cheap | ارزان |
+| duur | düür | expensive | گران |
+| de korting | de KOR-ting | discount | تخفیف |
+| betalen | be-TAA-len | to pay | پرداخت کردن |
+| kopen | KOH-pen | to buy | خریدن |
+| de kassa | de KAS-saa | checkout/register | صندوق |
+| contant | kon-TANT | cash | نقد |
+| met kaart | met kaart | by card | با کارت |
+| het wisselgeld | het VIS-sel-khelt | change (money back) | پول خرد/باقی‌مانده |
 
 ## Money phrases
 
-| Dutch | English |
-|---|---|
-| Hoeveel kost dit/dat? | How much does this/that cost? |
-| Dat is te duur. | That's too expensive. |
-| Heeft u korting? | Do you have a discount? |
-| Ik betaal met kaart / contant. | I'll pay by card / cash. |
-| Mag ik een bonnetje? | May I have a receipt? |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Hoeveel kost dit/dat? | HOO-vayl kost dit/dat? | How much does this/that cost? | <span dir="rtl" lang="fa">این/آن چقدر است؟</span> |
+| Dat is te duur. | dat is te düür | That's too expensive. | <span dir="rtl" lang="fa">این خیلی گران است.</span> |
+| Heeft u korting? | hayft üü KOR-ting? | Do you have a discount? | <span dir="rtl" lang="fa">تخفیف دارید؟</span> |
+| Ik betaal met kaart / contant. | ik be-TAAL met kaart / kon-TANT | I'll pay by card / cash. | <span dir="rtl" lang="fa">با کارت/نقد پرداخت می‌کنم.</span> |
+| Mag ik een bonnetje? | makh ik en BON-ne-tye? | May I have a receipt? | <span dir="rtl" lang="fa">می‌توانم رسید بگیرم؟</span> |
 
 ## Directions vocabulary / <span dir="rtl" lang="fa">واژگان مسیریابی</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| rechtdoor | straight ahead | مستقیم |
-| links | left | چپ |
-| rechts | right | راست |
-| afslaan | to turn | پیچیدن |
-| de straat | street | خیابان |
-| het kruispunt | intersection | چهارراه |
-| dichtbij | nearby | نزدیک |
-| ver | far | دور |
-| Waar is...? | Where is...? | ... کجاست؟ |
-| Hoe kom ik bij...? | How do I get to...? | چطور به ... برسم؟ |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| rechtdoor | REKHT-dohr | straight ahead | مستقیم |
+| links | links | left | چپ |
+| rechts | rekhts | right | راست |
+| afslaan | AF-slaan | to turn | پیچیدن |
+| de straat | de straat | street | خیابان |
+| het kruispunt | het KRÖYS-punt | intersection | چهارراه |
+| dichtbij | dikht-BAY | nearby | نزدیک |
+| ver | ver | far | دور |
+| Waar is...? | vaar is...? | Where is...? | ... کجاست؟ |
+| Hoe kom ik bij...? | hoo kom ik bay...? | How do I get to...? | چطور به ... برسم؟ |
 
 Recall prepositions of place from [[07-house-home]] — **in, op, onder, naast, achter, voor, tussen** — they're used constantly for directions too:
 
-- **De supermarkt is naast de bank.** — The supermarket is next to the bank.
-- **Het station is tussen de winkel en het park.** — The station is between the shop and the park.
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| De supermarkt is naast de bank. | de SÜ-per-markt is naast de bank | The supermarket is next to the bank. | <span dir="rtl" lang="fa">سوپرمارکت کنار بانک است.</span> |
+| Het station is tussen de winkel en het park. | het staa-SHON is TUS-sen de VIN-kel en het park | The station is between the shop and the park. | <span dir="rtl" lang="fa">ایستگاه بین مغازه و پارک است.</span> |
 
 ## Mini dialogue: Asking directions
 
-> **Ali:** Pardon, kunt u me helpen? Waar is het station?
-> **Voorbijganger:** Ja hoor! Ga rechtdoor, en sla dan links af bij het kruispunt.
-> **Ali:** Rechtdoor, dan links. Is het ver?
-> **Voorbijganger:** Nee, het is dichtbij — vijf minuten lopen.
-> **Ali:** Dank u wel!
+| Speaker | Dutch | Pronunciation | Persian |
+|---|---|---|---|
+| Ali | Pardon, kunt u me helpen? Waar is het station? | par-DON, kunt üü me HEL-pen? vaar is het staa-SHON? | <span dir="rtl" lang="fa">ببخشید، می‌توانید کمکم کنید؟ ایستگاه کجاست؟</span> |
+| Voorbijganger | Ja hoor! Ga rechtdoor, en sla dan links af bij het kruispunt. | yaa hohr! khaa REKHT-dohr, en slaa dan links af bay het KRÖYS-punt | <span dir="rtl" lang="fa">بله البته! مستقیم برو و بعد سر چهارراه به چپ بپیچ.</span> |
+| Ali | Rechtdoor, dan links. Is het ver? | REKHT-dohr, dan links. is het ver? | <span dir="rtl" lang="fa">مستقیم، بعد چپ. دور است؟</span> |
+| Voorbijganger | Nee, het is dichtbij — vijf minuten lopen. | nay, het is dikht-BAY — vayf mee-NÜÜ-ten LOH-pen | <span dir="rtl" lang="fa">نه، نزدیک است — پنج دقیقه پیاده‌روی.</span> |
+| Ali | Dank u wel! | dank üü vel! | <span dir="rtl" lang="fa">خیلی ممنون!</span> |
 
 ## Mini dialogue: Shopping
 
-> **Ali:** Hoeveel kost dit shirt?
-> **Verkoper:** Dat kost twintig euro.
-> **Ali:** Dat is een beetje duur. Heeft u korting?
-> **Verkoper:** Ja, vandaag tien procent korting.
-> **Ali:** Goed, ik betaal met kaart.
+| Speaker | Dutch | Pronunciation | Persian |
+|---|---|---|---|
+| Ali | Hoeveel kost dit shirt? | HOO-vayl kost dit shirt? | <span dir="rtl" lang="fa">این پیراهن چقدر است؟</span> |
+| Verkoper | Dat kost twintig euro. | dat kost TWIN-tikh Ö-roh | <span dir="rtl" lang="fa">این بیست یورو قیمتش است.</span> |
+| Ali | Dat is een beetje duur. Heeft u korting? | dat is en BAY-tye düür. hayft üü KOR-ting? | <span dir="rtl" lang="fa">این کمی گران است. تخفیف دارید؟</span> |
+| Verkoper | Ja, vandaag tien procent korting. | yaa, van-DAAKH teen proh-SENT KOR-ting | <span dir="rtl" lang="fa">بله، امروز ده درصد تخفیف.</span> |
+| Ali | Goed, ik betaal met kaart. | khoot, ik be-TAAL met kaart | <span dir="rtl" lang="fa">باشه، با کارت پرداخت می‌کنم.</span> |
 
 ## Summary
 

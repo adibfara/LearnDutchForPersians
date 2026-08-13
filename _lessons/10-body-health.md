@@ -44,37 +44,37 @@ quiz:
 
 ## Body parts / <span dir="rtl" lang="fa">اعضای بدن</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| het hoofd | head | سر |
-| het haar | hair | مو |
-| het oog / de ogen | eye / eyes | چشم / چشم‌ها |
-| het oor / de oren | ear / ears | گوش / گوش‌ها |
-| de neus | nose | بینی |
-| de mond | mouth | دهان |
-| de tand / de tanden | tooth / teeth | دندان / دندان‌ها |
-| de hand | hand | دست |
-| de arm | arm | بازو |
-| het been / de benen | leg / legs | پا / پاها |
-| de voet / de voeten | foot / feet | پا (کف) / پاها |
-| de buik | stomach/belly | شکم |
-| de rug | back | کمر/پشت |
-| het hart | heart | قلب |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| het hoofd | het hohft | head | سر |
+| het haar | het haar | hair | مو |
+| het oog / de ogen | het ohkh / de OH-khen | eye / eyes | چشم / چشم‌ها |
+| het oor / de oren | het ohr / de OH-ren | ear / ears | گوش / گوش‌ها |
+| de neus | de nös | nose | بینی |
+| de mond | de mont | mouth | دهان |
+| de tand / de tanden | de tant / de TAN-den | tooth / teeth | دندان / دندان‌ها |
+| de hand | de hant | hand | دست |
+| de arm | de arm | arm | بازو |
+| het been / de benen | het bayn / de BAY-nen | leg / legs | پا / پاها |
+| de voet / de voeten | de voot / de VOO-ten | foot / feet | پا (کف) / پاها |
+| de buik | de böyk | stomach/belly | شکم |
+| de rug | de rukh | back | کمر/پشت |
+| het hart | het hart | heart | قلب |
 
 ## Feeling unwell / <span dir="rtl" lang="fa">احساس ناخوشی</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| Ik ben ziek. | I'm sick. | مریضم. |
-| Ik voel me niet goed. | I don't feel well. | حالم خوب نیست. |
-| [lichaamsdeel] doet pijn. | My [body part] hurts. | ... درد می‌کند. |
-| Ik heb koorts. | I have a fever. | تب دارم. |
-| Ik heb hoofdpijn. | I have a headache. | سردرد دارم. |
-| Ik heb buikpijn. | I have a stomachache. | شکم‌درد دارم. |
-| de dokter | the doctor | پزشک |
-| het ziekenhuis | the hospital | بیمارستان |
-| de apotheek | the pharmacy | داروخانه |
-| de medicijn | the medicine | دارو |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Ik ben ziek. | ik ben zeek | I'm sick. | مریضم. |
+| Ik voel me niet goed. | ik vool me neet khoot | I don't feel well. | حالم خوب نیست. |
+| [lichaamsdeel] doet pijn. | [li-KHAAMS-dayl] doot payn | My [body part] hurts. | ... درد می‌کند. |
+| Ik heb koorts. | ik hep koorts | I have a fever. | تب دارم. |
+| Ik heb hoofdpijn. | ik hep HOHFT-payn | I have a headache. | سردرد دارم. |
+| Ik heb buikpijn. | ik hep BÖYK-payn | I have a stomachache. | شکم‌درد دارم. |
+| de dokter | de DOK-ter | the doctor | پزشک |
+| het ziekenhuis | het ZEE-ken-höys | the hospital | بیمارستان |
+| de apotheek | de aa-poh-TAYK | the pharmacy | داروخانه |
+| de medicijn | de may-dee-SAYN | the medicine | دارو |
 
 ## The "doet pijn" pattern
 
@@ -82,19 +82,23 @@ Dutch describes pain with a simple, reusable pattern:
 
 **[body part] + doet pijn** = "[body part] hurts"
 
-- **Mijn hoofd doet pijn.** — My head hurts.
-- **Mijn buik doet pijn.** — My stomach hurts.
-- **Mijn benen doen pijn.** *(plural: doen, not doet)* — My legs hurt.
+| Dutch | Pronunciation | English |
+|---|---|---|
+| Mijn hoofd doet pijn. | mayn hohft doot payn | My head hurts. |
+| Mijn buik doet pijn. | mayn böyk doot payn | My stomach hurts. |
+| Mijn benen doen pijn. *(plural: doen, not doet)* | mayn BAY-nen doon payn | My legs hurt. |
 
 Alternatively, compound words work too: **hoofdpijn** (headache), **buikpijn** (stomachache), **rugpijn** (backache) — just add "pijn" to the body part.
 
 ## Mini dialogue: At the doctor
 
-> **Dokter:** Goedemorgen, wat is het probleem?
-> **Ali:** Ik voel me niet goed. Ik heb hoofdpijn en koorts.
-> **Dokter:** Sinds wanneer heb je koorts?
-> **Ali:** Sinds gisteren.
-> **Dokter:** Rust goed uit en drink veel water.
+| Speaker | Dutch | Pronunciation | Persian |
+|---|---|---|---|
+| Dokter | Goedemorgen, wat is het probleem? | KHOO-de-MOR-khen, vat is het proh-BLAYM? | <span dir="rtl" lang="fa">صبح بخیر، مشکل چیست؟</span> |
+| Ali | Ik voel me niet goed. Ik heb hoofdpijn en koorts. | ik vool me neet khoot. ik hep HOHFT-payn en koorts | <span dir="rtl" lang="fa">حالم خوب نیست. سردرد و تب دارم.</span> |
+| Dokter | Sinds wanneer heb je koorts? | sints va-NAYR hep ye koorts? | <span dir="rtl" lang="fa">از کی تب داری؟</span> |
+| Ali | Sinds gisteren. | sints KHIS-te-ren | <span dir="rtl" lang="fa">از دیروز.</span> |
+| Dokter | Rust goed uit en drink veel water. | rust khoot öyt en drink vayl VAA-ter | <span dir="rtl" lang="fa">خوب استراحت کن و آب زیاد بنوش.</span> |
 
 ## Summary
 

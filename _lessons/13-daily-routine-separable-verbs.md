@@ -44,30 +44,30 @@ quiz:
 
 ## Daily routine vocabulary / <span dir="rtl" lang="fa">واژگان برنامه روزانه</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| opstaan | to get up | بیدار شدن |
-| zich wassen | to wash oneself | خود را شستن |
-| ontbijten | to have breakfast | صبحانه خوردن |
-| naar school/werk gaan | to go to school/work | به مدرسه/سرکار رفتن |
-| aankomen | to arrive | رسیدن |
-| werken | to work | کار کردن |
-| terugkomen | to come back | برگشتن |
-| koken | to cook | آشپزی کردن |
-| tv kijken | to watch TV | تلویزیون دیدن |
-| slapen | to sleep | خوابیدن |
-| naar bed gaan | to go to bed | به تخت رفتن |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| opstaan | OP-staan | to get up | بیدار شدن |
+| zich wassen | zikh VAS-sen | to wash oneself | خود را شستن |
+| ontbijten | ont-BAY-ten | to have breakfast | صبحانه خوردن |
+| naar school/werk gaan | naar skhool/verk khaan | to go to school/work | به مدرسه/سرکار رفتن |
+| aankomen | AAN-koh-men | to arrive | رسیدن |
+| werken | VER-ken | to work | کار کردن |
+| terugkomen | te-RUKH-koh-men | to come back | برگشتن |
+| koken | KOH-ken | to cook | آشپزی کردن |
+| tv kijken | tay-vay KAY-ken | to watch TV | تلویزیون دیدن |
+| slapen | SLAA-pen | to sleep | خوابیدن |
+| naar bed gaan | naar bet khaan | to go to bed | به تخت رفتن |
 
 ## Separable verbs (scheidbare werkwoorden)
 
 Dutch has many verbs made of a **prefix + base verb** — e.g. **op** + **staan** = **opstaan** (to get up). In a **main clause**, the prefix separates and jumps to the **end** of the sentence, while the conjugated verb stays in position 2 (the V2 rule from [[04-articles-pronouns-sentence-structure]]):
 
-| Infinitive | Meaning | In a sentence |
-|---|---|---|
-| opstaan | to get up | Ik sta om 7 uur **op**. |
-| aankomen | to arrive | De trein komt om 9 uur **aan**. |
-| terugkomen | to come back | Zij komt morgen **terug**. |
-| meenemen | to bring/take along | Hij neemt zijn tas **mee**. |
+| Infinitive | Meaning | In a sentence | Pronunciation |
+|---|---|---|---|
+| opstaan | to get up | Ik sta om 7 uur **op**. | ik staa om zay-ven üür op |
+| aankomen | to arrive | De trein komt om 9 uur **aan**. | de trayn komt om NAY-khen üür aan |
+| terugkomen | to come back | Zij komt morgen **terug**. | zay komt MOR-khen te-RUKH |
+| meenemen | to bring/take along | Hij neemt zijn tas **mee**. | hey naymt zayn tas may |
 
 > ⚠️ In a **subordinate clause** (after words like *omdat* - because, *dat* - that, *als* - if), the verb moves to the very end and the prefix **reattaches**: "...omdat ik om 7 uur **opsta**" (because I get up at 7 o'clock) — one word again!
 
@@ -75,26 +75,32 @@ Dutch has many verbs made of a **prefix + base verb** — e.g. **op** + **staan*
 
 Some routine actions are reflexive in Dutch (using "zich" - oneself), similar to Persian «خود را»:
 
-| Pronoun | Reflexive |
-|---|---|
-| ik | me |
-| jij | je |
-| hij/zij | zich |
-| wij | ons |
-| jullie | je |
-| zij (they) | zich |
+| Pronoun | Reflexive | Pronunciation |
+|---|---|---|
+| ik | me | me |
+| jij | je | ye |
+| hij/zij | zich | zikh |
+| wij | ons | ons |
+| jullie | je | ye |
+| zij (they) | zich | zikh |
 
-**Ik was me. Jij wast je. Hij wast zich.** — I wash myself, You wash yourself, He washes himself.
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Ik was me. | ik vas me | I wash myself. | <span dir="rtl" lang="fa">خودم را می‌شویم.</span> |
+| Jij wast je. | yay vast ye | You wash yourself. | <span dir="rtl" lang="fa">خودت را می‌شویی.</span> |
+| Hij wast zich. | hey vast zikh | He washes himself. | <span dir="rtl" lang="fa">او خودش را می‌شوید.</span> |
 
 ## A full daily routine
 
-> **Ik sta om zeven uur op.** — I get up at 7.
-> **Ik was me en ik ontbijt.** — I wash myself and have breakfast.
-> **Om half negen ga ik naar werk.** — At 8:30 I go to work.
-> **Ik werk tot vijf uur.** — I work until 5.
-> **Om zes uur kom ik terug.** — At 6 I come back.
-> **'s Avonds kook ik en kijk ik tv.** — In the evening I cook and watch TV.
-> **Om elf uur ga ik naar bed.** — At 11 I go to bed.
+| Dutch | Pronunciation | English |
+|---|---|---|
+| Ik sta om zeven uur op. | ik staa om ZAY-ven üür op | I get up at 7. |
+| Ik was me en ik ontbijt. | ik vas me en ik ont-BAYT | I wash myself and have breakfast. |
+| Om half negen ga ik naar werk. | om half NAY-khen khaa ik naar verk | At 8:30 I go to work. |
+| Ik werk tot vijf uur. | ik verk tot vayf üür | I work until 5. |
+| Om zes uur kom ik terug. | om zes üür kom ik te-RUKH | At 6 I come back. |
+| 's Avonds kook ik en kijk ik tv. | SAA-vonts kohk ik en kayk ik tay-vay | In the evening I cook and watch TV. |
+| Om elf uur ga ik naar bed. | om elf üür khaa ik naar bet | At 11 I go to bed. |
 
 ## Summary
 

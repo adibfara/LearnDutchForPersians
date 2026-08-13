@@ -44,59 +44,63 @@ quiz:
 
 ## Clothing / <span dir="rtl" lang="fa">لباس</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| de kleren | clothes | لباس‌ها |
-| het shirt | shirt | پیراهن |
-| de broek | trousers/pants | شلوار |
-| de jurk | dress | لباس زنانه |
-| de rok | skirt | دامن |
-| de jas | coat/jacket | کت |
-| de trui | sweater | ژاکت/پلیور |
-| de schoenen | shoes | کفش‌ها |
-| de sokken | socks | جوراب‌ها |
-| de muts | winter hat | کلاه زمستانی |
-| de hoed | hat | کلاه |
-| de handschoenen | gloves | دستکش‌ها |
-| de sjaal | scarf | شال گردن |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| de kleren | de KLAY-ren | clothes | لباس‌ها |
+| het shirt | het shirt | shirt | پیراهن |
+| de broek | de brook | trousers/pants | شلوار |
+| de jurk | de yurk | dress | لباس زنانه |
+| de rok | de rok | skirt | دامن |
+| de jas | de yas | coat/jacket | کت |
+| de trui | de tröy | sweater | ژاکت/پلیور |
+| de schoenen | de SKHOO-nen | shoes | کفش‌ها |
+| de sokken | de SOK-ken | socks | جوراب‌ها |
+| de muts | de muts | winter hat | کلاه زمستانی |
+| de hoed | de hoot | hat | کلاه |
+| de handschoenen | de HANT-skhoo-nen | gloves | دستکش‌ها |
+| de sjaal | de shaal | scarf | شال گردن |
 
 ## Seasons / <span dir="rtl" lang="fa">فصل‌ها</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| de lente / het voorjaar | spring | بهار |
-| de zomer | summer | تابستان |
-| de herfst | autumn/fall | پاییز |
-| de winter | winter | زمستان |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| de lente / het voorjaar | de LEN-te / het VOOR-yaar | spring | بهار |
+| de zomer | de ZOH-mer | summer | تابستان |
+| de herfst | de herfst | autumn/fall | پاییز |
+| de winter | de VIN-ter | winter | زمستان |
 
 ## Weather / <span dir="rtl" lang="fa">آب‌وهوا</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| Hoe is het weer? | How's the weather? | آب‌وهوا چطور است؟ |
-| Het is zonnig. | It's sunny. | آفتابی است. |
-| Het is bewolkt. | It's cloudy. | ابری است. |
-| Het regent. | It's raining. | باران می‌بارد. |
-| Het sneeuwt. | It's snowing. | برف می‌بارد. |
-| Het waait. | It's windy. | باد می‌آید. |
-| Het is warm. | It's warm/hot. | گرم است. |
-| Het is koud. | It's cold. | سرد است. |
-| Het is fris. | It's chilly/cool. | خنک است. |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Hoe is het weer? | hoo is het vayr? | How's the weather? | آب‌وهوا چطور است؟ |
+| Het is zonnig. | het is ZON-nikh | It's sunny. | آفتابی است. |
+| Het is bewolkt. | het is be-VOLKT | It's cloudy. | ابری است. |
+| Het regent. | het RAY-khent | It's raining. | باران می‌بارد. |
+| Het sneeuwt. | het snayft | It's snowing. | برف می‌بارد. |
+| Het waait. | het vaayt | It's windy. | باد می‌آید. |
+| Het is warm. | het is varm | It's warm/hot. | گرم است. |
+| Het is koud. | het is kowt | It's cold. | سرد است. |
+| Het is fris. | het is fris | It's chilly/cool. | خنک است. |
 
 ## The "Het is..." weather pattern
 
 Dutch weather expressions typically use **Het is + adjective** (like English "It is...") or a dedicated verb for precipitation:
 
-- **Het is koud in de winter.** — It's cold in winter.
-- **Het regent veel in Nederland.** — It rains a lot in the Netherlands.
-- **In de zomer draag ik een shirt en een korte broek.** — In summer I wear a shirt and shorts.
-- **In de winter draag ik een jas, een muts en handschoenen.** — In winter I wear a coat, a hat, and gloves.
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Het is koud in de winter. | het is kowt in de VIN-ter | It's cold in winter. | <span dir="rtl" lang="fa">زمستان سرد است.</span> |
+| Het regent veel in Nederland. | het RAY-khent vayl in NAY-der-lant | It rains a lot in the Netherlands. | <span dir="rtl" lang="fa">در هلند باران زیاد می‌بارد.</span> |
+| In de zomer draag ik een shirt en een korte broek. | in de ZOH-mer draakh ik en shirt en en KOR-te brook | In summer I wear a shirt and shorts. | <span dir="rtl" lang="fa">تابستان یک پیراهن و شلوارک می‌پوشم.</span> |
+| In de winter draag ik een jas, een muts en handschoenen. | in de VIN-ter draakh ik en yas, en muts en HANT-skhoo-nen | In winter I wear a coat, a hat, and gloves. | <span dir="rtl" lang="fa">زمستان یک کت، کلاه و دستکش می‌پوشم.</span> |
 
 ## Mini dialogue
 
-> **Sara:** Hoe is het weer vandaag?
-> **Ali:** Het is koud en het regent. Neem een paraplu mee!
-> **Sara:** Goed idee. Ik draag mijn jas en mijn muts.
+| Speaker | Dutch | Pronunciation | Persian |
+|---|---|---|---|
+| Sara | Hoe is het weer vandaag? | hoo is het vayr van-DAAKH? | <span dir="rtl" lang="fa">امروز هوا چطوره؟</span> |
+| Ali | Het is koud en het regent. Neem een paraplu mee! | het is kowt en het RAY-khent. naym en paa-raa-PLÜÜ may! | <span dir="rtl" lang="fa">سرده و باران می‌بارد. یک چتر با خودت ببر!</span> |
+| Sara | Goed idee. Ik draag mijn jas en mijn muts. | khoot ee-DAY. ik draakh mayn yas en mayn muts | <span dir="rtl" lang="fa">فکر خوبیه. من کت و کلاهم رو می‌پوشم.</span> |
 
 ## Summary
 

@@ -60,35 +60,37 @@ quiz:
 
 ## Tens & the "units before tens" rule
 
-| Dutch | English |
-|---|---|
-| twintig | 20 |
-| dertig | 30 |
-| veertig | 40 |
-| vijftig | 50 |
-| zestig | 60 |
-| zeventig | 70 |
-| tachtig | 80 |
-| negentig | 90 |
-| honderd | 100 |
+| Dutch | Pronunciation | English |
+|---|---|---|
+| twintig | TWIN-tikh | 20 |
+| dertig | DER-tikh | 30 |
+| veertig | VEER-tikh | 40 |
+| vijftig | VYF-tikh | 50 |
+| zestig | ZES-tikh | 60 |
+| zeventig | ZAY-ven-tikh | 70 |
+| tachtig | TAKH-tikh | 80 |
+| negentig | NAY-khen-tikh | 90 |
+| honderd | HON-dert | 100 |
 
 > ⚠️ **Big difference from Persian/English:** Dutch says units **before** tens, like German: **eenentwintig** (21) = "een" + "en" (and) + "twintig" = "one-and-twenty". So 34 = **vierendertig** (four-and-thirty), 58 = **achtenvijftig** (eight-and-fifty).
 
 ## Useful number phrases
 
-| Dutch | English | Persian |
-|---|---|---|
-| Hoeveel kost het? | How much does it cost? | چقدر قیمتش است؟ |
-| Wat is je telefoonnummer? | What's your phone number? | شماره تلفنت چیست؟ |
-| Hoe oud ben je? | How old are you? | چند سالته؟ |
-| Ik ben [X] jaar oud. | I am X years old. | من X ساله‌ام. |
-| Het kost tien euro. | It costs ten euros. | ده یورو قیمتش است. |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Hoeveel kost het? | HOO-vayl kost het | How much does it cost? | چقدر قیمتش است؟ |
+| Wat is je telefoonnummer? | vat is ye tay-le-FOON-num-mer | What's your phone number? | شماره تلفنت چیست؟ |
+| Hoe oud ben je? | hoo owt ben ye | How old are you? | چند سالته؟ |
+| Ik ben [X] jaar oud. | ik ben [X] yaar owt | I am X years old. | من X ساله‌ام. |
+| Het kost tien euro. | het kost teen Ö-roh | It costs ten euros. | ده یورو قیمتش است. |
 
 ## Examples
 
-- **drieëntwintig** — 23 (note the extra ë for pronunciation between drie and en)
-- **zesenzestig** — 66
-- **negenennegentig** — 99
+| Dutch | Pronunciation | English |
+|---|---|---|
+| drieëntwintig | DREE-en-TWIN-tikh | 23 (note the extra ë for pronunciation between drie and en) |
+| zesenzestig | ZES-en-ZES-tikh | 66 |
+| negenennegentig | NAY-khen-en-NAY-khen-tikh | 99 |
 
 ## Summary
 

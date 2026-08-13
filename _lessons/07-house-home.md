@@ -44,67 +44,69 @@ quiz:
 
 ## Rooms / <span dir="rtl" lang="fa">اتاق‌ها</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| het huis | house | خانه |
-| de kamer | room | اتاق |
-| de woonkamer | living room | نشیمن |
-| de slaapkamer | bedroom | اتاق خواب |
-| de keuken | kitchen | آشپزخانه |
-| de badkamer | bathroom | حمام |
-| het toilet | toilet | دستشویی |
-| de tuin | garden | باغچه/حیاط |
-| de garage | garage | گاراژ |
-| de gang | hallway | راهرو |
-| de zolder | attic | زیرشیروانی |
-| de trap | staircase | پله |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| het huis | het höys | house | خانه |
+| de kamer | de KAA-mer | room | اتاق |
+| de woonkamer | de VOHN-kaa-mer | living room | نشیمن |
+| de slaapkamer | de SLAAP-kaa-mer | bedroom | اتاق خواب |
+| de keuken | de KÖ-ken | kitchen | آشپزخانه |
+| de badkamer | de BAT-kaa-mer | bathroom | حمام |
+| het toilet | het twaa-LET | toilet | دستشویی |
+| de tuin | de töyn | garden | باغچه/حیاط |
+| de garage | de khaa-RAA-zhe | garage | گاراژ |
+| de gang | de khang | hallway | راهرو |
+| de zolder | de ZOL-der | attic | زیرشیروانی |
+| de trap | de trap | staircase | پله |
 
 ## Furniture & objects / <span dir="rtl" lang="fa">اثاثیه و وسایل</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| de tafel | table | میز |
-| de stoel | chair | صندلی |
-| het bed | bed | تخت |
-| de bank | sofa/couch | مبل |
-| de kast | closet/cupboard | کمد |
-| de lamp | lamp | چراغ |
-| het raam | window | پنجره |
-| de deur | door | در |
-| de spiegel | mirror | آینه |
-| de koelkast | fridge | یخچال |
-| het fornuis | stove | اجاق گاز |
-| de wasmachine | washing machine | ماشین لباسشویی |
-| het tapijt | carpet/rug | فرش |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| de tafel | de TAA-fel | table | میز |
+| de stoel | de stool | chair | صندلی |
+| het bed | het bet | bed | تخت |
+| de bank | de bank | sofa/couch | مبل |
+| de kast | de kast | closet/cupboard | کمد |
+| de lamp | de lamp | lamp | چراغ |
+| het raam | het raam | window | پنجره |
+| de deur | de dör | door | در |
+| de spiegel | de SPEE-khel | mirror | آینه |
+| de koelkast | de KOOL-kast | fridge | یخچال |
+| het fornuis | het for-NÖYS | stove | اجاق گاز |
+| de wasmachine | de VAS-maa-shee-ne | washing machine | ماشین لباسشویی |
+| het tapijt | het taa-PAYT | carpet/rug | فرش |
 
 ## "Er is / er zijn" — there is / there are
 
 Just like Persian «وجود دارد», Dutch uses a fixed phrase to state existence:
 
-| Dutch | English |
-|---|---|
-| Er is een tafel in de keuken. | There is a table in the kitchen. |
-| Er zijn twee stoelen in de kamer. | There are two chairs in the room. |
-| Er is geen bed in de woonkamer. | There is no bed in the living room. |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Er is een tafel in de keuken. | er is en TAA-fel in de KÖ-ken | There is a table in the kitchen. | <span dir="rtl" lang="fa">یک میز در آشپزخانه هست.</span> |
+| Er zijn twee stoelen in de kamer. | er zayn tway STOO-len in de KAA-mer | There are two chairs in the room. | <span dir="rtl" lang="fa">دو صندلی در اتاق هست.</span> |
+| Er is geen bed in de woonkamer. | er is khayn bet in de VOHN-kaa-mer | There is no bed in the living room. | <span dir="rtl" lang="fa">هیچ تختی در نشیمن نیست.</span> |
 
 ## Prepositions of place / <span dir="rtl" lang="fa">حروف اضافه مکان</span>
 
-| Dutch | English |
-|---|---|
-| in | in |
-| op | on |
-| onder | under |
-| naast | next to |
-| achter | behind |
-| voor | in front of |
-| tussen | between |
+| Dutch | Pronunciation | English |
+|---|---|---|
+| in | in | in |
+| op | op | on |
+| onder | ON-der | under |
+| naast | naast | next to |
+| achter | AKH-ter | behind |
+| voor | voor | in front of |
+| tussen | TUS-sen | between |
 
 ## Example sentences
 
-- **Het bed staat in de slaapkamer.** — The bed is in the bedroom.
-- **De lamp staat op de tafel.** — The lamp is on the table.
-- **De kat zit onder de stoel.** — The cat sits under the chair.
-- **Er zijn drie ramen in de woonkamer.** — There are three windows in the living room.
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Het bed staat in de slaapkamer. | het bet staat in de SLAAP-kaa-mer | The bed is in the bedroom. | <span dir="rtl" lang="fa">تخت در اتاق خواب است.</span> |
+| De lamp staat op de tafel. | de lamp staat op de TAA-fel | The lamp is on the table. | <span dir="rtl" lang="fa">چراغ روی میز است.</span> |
+| De kat zit onder de stoel. | de kat zit ON-der de stool | The cat sits under the chair. | <span dir="rtl" lang="fa">گربه زیر صندلی نشسته.</span> |
+| Er zijn drie ramen in de woonkamer. | er zayn dree RAA-men in de VOHN-kaa-mer | There are three windows in the living room. | <span dir="rtl" lang="fa">سه پنجره در نشیمن هست.</span> |
 
 ## Summary
 

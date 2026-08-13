@@ -44,52 +44,52 @@ quiz:
 
 ## Days of the week / <span dir="rtl" lang="fa">روزهای هفته</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| maandag | Monday | دوشنبه |
-| dinsdag | Tuesday | سه‌شنبه |
-| woensdag | Wednesday | چهارشنبه |
-| donderdag | Thursday | پنجشنبه |
-| vrijdag | Friday | جمعه |
-| zaterdag | Saturday | شنبه |
-| zondag | Sunday | یکشنبه |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| maandag | MAAN-dakh | Monday | دوشنبه |
+| dinsdag | DINS-dakh | Tuesday | سه‌شنبه |
+| woensdag | VOONS-dakh | Wednesday | چهارشنبه |
+| donderdag | DON-der-dakh | Thursday | پنجشنبه |
+| vrijdag | VRAY-dakh | Friday | جمعه |
+| zaterdag | ZAA-ter-dakh | Saturday | شنبه |
+| zondag | ZON-dakh | Sunday | یکشنبه |
 
 > 💡 Note the Dutch week starts on **maandag** (Monday) on calendars, unlike Persian calendars which often start on شنبه (Saturday).
 
 ## Months of the year / <span dir="rtl" lang="fa">ماه‌های سال</span>
 
-| Dutch | Persian | Dutch | Persian |
-|---|---|---|---|
-| januari | ژانویه | juli | ژوئیه |
-| februari | فوریه | augustus | اوت |
-| maart | مارس | september | سپتامبر |
-| april | آوریل | oktober | اکتبر |
-| mei | مه | november | نوامبر |
-| juni | ژوئن | december | دسامبر |
+| Dutch | Pronunciation | Persian | Dutch | Pronunciation | Persian |
+|---|---|---|---|---|---|
+| januari | yaa-nu-AA-ree | ژانویه | juli | YUU-lee | ژوئیه |
+| februari | FAY-bru-aa-ree | فوریه | augustus | ow-KHUS-tus | اوت |
+| maart | maart | مارس | september | sep-TEM-ber | سپتامبر |
+| april | aa-PRIL | آوریل | oktober | ok-TOH-ber | اکتبر |
+| mei | may | مه | november | no-VEM-ber | نوامبر |
+| juni | YUU-nee | ژوئن | december | day-SEM-ber | دسامبر |
 
 ## Telling time / <span dir="rtl" lang="fa">گفتن ساعت</span>
 
-| Dutch | English |
-|---|---|
-| Hoe laat is het? | What time is it? |
-| Het is één uur. | It's one o'clock. |
-| Het is kwart over drie. | It's quarter past three (3:15). |
-| Het is half vier. | It's half past three (3:30) — literally "half toward four" |
-| Het is kwart voor vier. | It's quarter to four (3:45). |
-| Het is tien voor vier. | It's ten to four (3:50). |
-| 's Ochtends / 's Middags / 's Avonds | In the morning / afternoon / evening | 
+| Dutch | Pronunciation | English |
+|---|---|---|
+| Hoe laat is het? | hoo laat is het | What time is it? |
+| Het is één uur. | het is ayn üür | It's one o'clock. |
+| Het is kwart over drie. | het is kvart OH-ver dree | It's quarter past three (3:15). |
+| Het is half vier. | het is half veer | It's half past three (3:30) — literally "half toward four" |
+| Het is kwart voor vier. | het is kvart voor veer | It's quarter to four (3:45). |
+| Het is tien voor vier. | het is teen voor veer | It's ten to four (3:50). |
+| 's Ochtends / 's Middags / 's Avonds | SOKH-tens / SMID-dakhs / SAA-vonts | In the morning / afternoon / evening | 
 
 > ⚠️ **The #1 trap for new learners:** Dutch "half vier" (half four) means **3:30**, not 4:30! Dutch counts the half-hour as "halfway toward" the next hour, unlike English "half four" (informal, rare) or a literal reading. Persian speakers should think of it as "نیم به چهار" (halfway *to* four), not "چهار و نیم".
 
 ## Date expressions
 
-| Dutch | English | Persian |
-|---|---|---|
-| Welke dag is het vandaag? | What day is it today? | امروز چه روزی است؟ |
-| Vandaag is het maandag. | Today is Monday. | امروز دوشنبه است. |
-| Morgen | Tomorrow | فردا |
-| Gisteren | Yesterday | دیروز |
-| Mijn verjaardag is in mei. | My birthday is in May. | تولدم در ماه مه است. |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Welke dag is het vandaag? | VEL-ke dakh is het van-DAAKH | What day is it today? | امروز چه روزی است؟ |
+| Vandaag is het maandag. | van-DAAKH is het MAAN-dakh | Today is Monday. | امروز دوشنبه است. |
+| Morgen | MOR-khen | Tomorrow | فردا |
+| Gisteren | KHIS-te-ren | Yesterday | دیروز |
+| Mijn verjaardag is in mei. | mayn ver-YAAR-dakh is in may | My birthday is in May. | تولدم در ماه مه است. |
 
 ## Summary
 

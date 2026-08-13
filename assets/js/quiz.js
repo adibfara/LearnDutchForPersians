@@ -17,6 +17,7 @@
 
     var answered = new Array(questions.length).fill(false);
     var correctCount = 0;
+    var lessonSlug = root.getAttribute("data-lesson-slug");
 
     questions.forEach(function (q, qi) {
       var qWrap = document.createElement("div");
@@ -98,6 +99,9 @@
     function updateScore() {
       var done = answered.filter(Boolean).length;
       scoreBox.textContent = "Score: " + correctCount + " / " + done + " answered (" + questions.length + " total)";
+      if (lessonSlug && done > 0 && window.DFPProgress) {
+        window.DFPProgress.recordQuizAnswer(lessonSlug, correctCount, done, questions.length);
+      }
     }
     updateScore();
   }

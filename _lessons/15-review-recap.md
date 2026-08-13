@@ -60,29 +60,33 @@ Congratulations on reaching Lesson 15! Let's consolidate everything with a gramm
 
 ## Bonus vocabulary: Transport & Travel / <span dir="rtl" lang="fa">حمل‌ونقل و سفر</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| de trein | train | قطار |
-| de bus | bus | اتوبوس |
-| de auto | car | ماشین |
-| de fiets | bicycle | دوچرخه |
-| het vliegtuig | airplane | هواپیما |
-| het station | station | ایستگاه |
-| het kaartje | ticket | بلیط |
-| de reis | trip/journey | سفر |
-| vertrekken | to depart | حرکت کردن |
-| aankomen | to arrive | رسیدن |
-| instappen | to get on/board | سوار شدن |
-| uitstappen | to get off | پیاده شدن |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| de trein | de trayn | train | قطار |
+| de bus | de bus | bus | اتوبوس |
+| de auto | de OW-toh | car | ماشین |
+| de fiets | de feets | bicycle | دوچرخه |
+| het vliegtuig | het VLEEKH-töykh | airplane | هواپیما |
+| het station | het staa-SHON | station | ایستگاه |
+| het kaartje | het KAAR-tye | ticket | بلیط |
+| de reis | de rays | trip/journey | سفر |
+| vertrekken | ver-TREK-ken | to depart | حرکت کردن |
+| aankomen | AAN-koh-men | to arrive | رسیدن |
+| instappen | IN-stap-pen | to get on/board | سوار شدن |
+| uitstappen | ÖYT-stap-pen | to get off | پیاده شدن |
 
 ## A peek ahead: the simple past tense
 
 You've only used the present tense so far — a natural next step beyond A1 is the **simple past (onvoltooid verleden tijd)**. Just as a preview:
 
-- Regular verbs add **-te(n)** or **-de(n)** to the stem: **werken → werkte** (worked), **leren → leerde** (learned).
-- **zijn → was/waren**, **hebben → had/hadden** (irregular, just like English).
+| Dutch | Pronunciation | English |
+|---|---|---|
+| werken → werkte | VER-ken → VER-kte | to work → worked |
+| leren → leerde | LAY-ren → LAYR-de | to learn → learned |
+| zijn → was/waren | zayn → vas/VAA-ren | to be → was/were (irregular, just like English) |
+| hebben → had/hadden | HEB-ben → hat/HAD-den | to have → had (irregular, just like English) |
 
-Example: **Gisteren werkte ik in Amsterdam.** — Yesterday I worked in Amsterdam.
+Example: **Gisteren werkte ik in Amsterdam.** (KHIS-te-ren VER-kte ik in AM-ster-dam) — Yesterday I worked in Amsterdam. <span dir="rtl" lang="fa">دیروز در آمستردام کار می‌کردم.</span>
 
 This is bonus material — full mastery of the past tense belongs to the next course level (A2), so don't worry about using it perfectly yet.
 

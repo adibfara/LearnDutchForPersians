@@ -3,7 +3,13 @@ layout: default
 ---
 <article class="lesson">
   <header class="lesson-header">
-    <p class="lesson-kicker">Lesson {{ page.order }} · <span class="level-badge level-{{ page.level }}">{{ page.level }}</span></p>
+    <p class="lesson-kicker">
+      {% if page.quiz_lesson %}
+        📝 Review Quiz · <span class="level-badge level-quiz">Quiz</span>
+      {% else %}
+        Lesson {{ page.order }} · <span class="level-badge level-{{ page.level }}">{{ page.level }}</span>
+      {% endif %}
+    </p>
     <h1>{{ page.title }}</h1>
     {% if page.title_fa %}<p class="fa-title" dir="rtl" lang="fa">{{ page.title_fa }}</p>{% endif %}
   </header>
@@ -32,3 +38,8 @@ layout: default
 
   {% include nav.html %}
 </article>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.DFPProgress) window.DFPProgress.markViewed("{{ page.slug }}");
+  });
+</script>

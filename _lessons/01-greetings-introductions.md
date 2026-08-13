@@ -69,36 +69,40 @@ Let's start speaking Dutch immediately with the phrases you'll use every single 
 
 ## Subject pronouns / <span dir="rtl" lang="fa">ضمایر فاعلی</span>
 
-| Dutch | English | Persian |
-|---|---|---|
-| ik | I | من |
-| jij / je | you (informal) | تو |
-| u | you (formal) | شما |
-| hij | he | او (مذکر) |
-| zij / ze | she | او (مؤنث) |
-| het | it | آن |
-| wij / we | we | ما |
-| jullie | you (plural) | شما (جمع) |
-| zij / ze | they | آن‌ها |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| ik | ik | I | من |
+| jij / je | yay / ye | you (informal) | تو |
+| u | üü | you (formal) | شما |
+| hij | hey | he | او (مذکر) |
+| zij / ze | zay / ze | she | او (مؤنث) |
+| het | het | it | آن |
+| wij / we | vay / ve | we | ما |
+| jullie | YUL-lee | you (plural) | شما (جمع) |
+| zij / ze | zay / ze | they | آن‌ها |
 
 > 💡 **Persian comparison:** Persian doesn't distinguish "he" vs "she" (او covers both) — Dutch, like English, does with **hij/zij**. Dutch also keeps the informal/formal split (jij vs u) much like تو vs شما.
 
 ## Introducing yourself
 
-- **Ik heet Ali.** — My name is Ali. <span dir="rtl" lang="fa">اسم من علی است.</span>
-- **Ik ben Ali.** — I am Ali. <span dir="rtl" lang="fa">من علی هستم.</span>
-- **Ik kom uit Iran.** — I'm from Iran. <span dir="rtl" lang="fa">من اهل ایرانم.</span>
-- **Waar kom jij vandaan?** — Where are you from? <span dir="rtl" lang="fa">تو اهل کجایی؟</span>
-- **Leuk je te ontmoeten!** — Nice to meet you! <span dir="rtl" lang="fa">از آشناییت خوشوقتم!</span>
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Ik heet Ali. | ik heyt AA-lee | My name is Ali. | <span dir="rtl" lang="fa">اسم من علی است.</span> |
+| Ik ben Ali. | ik ben AA-lee | I am Ali. | <span dir="rtl" lang="fa">من علی هستم.</span> |
+| Ik kom uit Iran. | ik kom öyt ee-RAAN | I'm from Iran. | <span dir="rtl" lang="fa">من اهل ایرانم.</span> |
+| Waar kom jij vandaan? | vaar kom yay van-DAAN | Where are you from? | <span dir="rtl" lang="fa">تو اهل کجایی؟</span> |
+| Leuk je te ontmoeten! | lök ye te ont-MOO-ten | Nice to meet you! | <span dir="rtl" lang="fa">از آشناییت خوشوقتم!</span> |
 
 ## Mini dialogue
 
-> **Sara:** Hoi! Ik heet Sara. Hoe heet jij?
-> **Ali:** Hallo Sara, ik heet Ali. Leuk je te ontmoeten!
-> **Sara:** Waar kom je vandaan?
-> **Ali:** Ik kom uit Iran, en jij?
-> **Sara:** Ik kom uit Nederland. Tot ziens, Ali!
-> **Ali:** Doei!
+| Speaker | Dutch | Pronunciation | Persian |
+|---|---|---|---|
+| Sara | Hoi! Ik heet Sara. Hoe heet jij? | hoy! ik heyt SAA-raa. hoo heyt yay? | <span dir="rtl" lang="fa">سلام! اسم من ساراست. اسم تو چیه؟</span> |
+| Ali | Hallo Sara, ik heet Ali. Leuk je te ontmoeten! | HA-lo SAA-raa, ik heyt AA-lee. lök ye te ont-MOO-ten! | <span dir="rtl" lang="fa">سلام سارا، اسم من علیه. از آشناییت خوشوقتم!</span> |
+| Sara | Waar kom je vandaan? | vaar kom ye van-DAAN? | <span dir="rtl" lang="fa">تو اهل کجایی؟</span> |
+| Ali | Ik kom uit Iran, en jij? | ik kom öyt ee-RAAN, en yay? | <span dir="rtl" lang="fa">من اهل ایرانم، تو چی؟</span> |
+| Sara | Ik kom uit Nederland. Tot ziens, Ali! | ik kom öyt NAY-der-lant. tot zeens, AA-lee! | <span dir="rtl" lang="fa">من اهل هلندم. خداحافظ علی!</span> |
+| Ali | Doei! | dooey! | <span dir="rtl" lang="fa">خداحافظ!</span> |
 
 ## Summary
 

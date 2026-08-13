@@ -62,20 +62,22 @@ Persian has no articles like "the" at all — Dutch has two, and every noun is f
 
 Persian word order is fairly flexible (subject-object-verb, often with the verb last). **Dutch is stricter**: in a main clause, the conjugated verb must be the **second element** — no matter what comes first.
 
-- **Ik drink koffie.** (I drink coffee) — subject first, verb second. ✅
-- **Vandaag drink ik koffie.** (Today I drink coffee) — time word first, so the verb stays 2nd and **ik** moves after it. ✅
-- ~~Vandaag ik drink koffie~~ ❌ — wrong, verb must stay in position 2.
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Ik drink koffie. ✅ | ik drink KOF-fee | I drink coffee — subject first, verb second. | <span dir="rtl" lang="fa">من قهوه می‌نوشم.</span> |
+| Vandaag drink ik koffie. ✅ | van-DAAKH drink ik KOF-fee | Today I drink coffee — time word first, so the verb stays 2nd and **ik** moves after it. | <span dir="rtl" lang="fa">امروز من قهوه می‌نوشم.</span> |
+| ~~Vandaag ik drink koffie~~ ❌ | van-DAAKH ik drink KOF-fee | wrong, verb must stay in position 2. | — |
 
 <span dir="rtl" lang="fa">این «قانون V2» یعنی فعل صرف‌شده همیشه دومین عنصر جمله است، حتی اگر جمله با چیزی غیر از فاعل شروع شود — فاعل و فعل جابه‌جا می‌شوند.</span>
 
 ## More examples
 
-| Dutch | English |
-|---|---|
-| Ik lees een boek. | I read a book. |
-| Morgen ga ik naar school. | Tomorrow I go to school. |
-| Zij werkt in Amsterdam. | She works in Amsterdam. |
-| In Amsterdam werkt zij. | In Amsterdam, she works. (inverted) |
+| Dutch | Pronunciation | English | Persian |
+|---|---|---|---|
+| Ik lees een boek. | ik lays en book | I read a book. | <span dir="rtl" lang="fa">من یک کتاب می‌خوانم.</span> |
+| Morgen ga ik naar school. | MOR-khen khaa ik naar skhool | Tomorrow I go to school. | <span dir="rtl" lang="fa">فردا به مدرسه می‌روم.</span> |
+| Zij werkt in Amsterdam. | zay verkt in AM-ster-dam | She works in Amsterdam. | <span dir="rtl" lang="fa">او در آمستردام کار می‌کند.</span> |
+| In Amsterdam werkt zij. | in AM-ster-dam verkt zay | In Amsterdam, she works. (inverted) | <span dir="rtl" lang="fa">در آمستردام، او کار می‌کند.</span> |
 
 ## Summary
 
