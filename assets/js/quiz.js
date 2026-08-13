@@ -67,9 +67,16 @@
             btn.classList.add("incorrect");
           }
 
-          feedback.textContent = (oi === q.answer ? "✅ " : "❌ ") + (q.explain_en || "");
+          feedback.textContent = "";
+          feedback.appendChild(document.createTextNode(
+            (oi === q.answer ? "✅ " : "❌ ") + (q.explain_en || "") + " "
+          ));
           if (q.explain_fa) {
-            feedback.textContent += "  " + q.explain_fa;
+            var faSpan = document.createElement("span");
+            faSpan.setAttribute("lang", "fa");
+            faSpan.setAttribute("dir", "rtl");
+            faSpan.textContent = q.explain_fa;
+            feedback.appendChild(faSpan);
           }
           feedback.classList.add("visible");
 

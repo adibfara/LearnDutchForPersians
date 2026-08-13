@@ -50,6 +50,30 @@ body {
   font-weight: 600;
 }
 
+.lang-toggle-btn {
+  margin-left: 1rem;
+  border: 1px solid var(--accent);
+  background: transparent;
+  color: var(--accent);
+  font-weight: 600;
+  font-size: 0.85rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.lang-toggle-btn:hover { background: var(--accent-soft); }
+.lang-toggle-btn .label-en { display: none; }
+html.lang-en .lang-toggle-btn .label-bilingual { display: none; }
+html.lang-en .lang-toggle-btn .label-en { display: inline; }
+
+/* English-only mode: hide anything tagged as Persian text, and the
+   Persian column in vocab tables (marked at runtime by lang.js). */
+html.lang-en [lang="fa"],
+html.lang-en .fa-col-hidden {
+  display: none !important;
+}
+
 .site-main {
   max-width: 780px;
   margin: 0 auto;
