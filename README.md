@@ -1,4 +1,4 @@
-# Dutch for Persians 🌷
+# Learning Dutch for Persians 🎓
 
 A free, self-study Dutch course for Persian (Farsi) speakers, covering **A0 → A1** (CEFR). Built as a static Jekyll site for GitHub Pages, with bilingual English/Persian explanations and interactive quizzes.
 

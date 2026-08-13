@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# Dutch for Persians 🌷
-### <span dir="rtl" lang="fa">هلندی برای فارسی‌زبانان</span>
+# Learning Dutch for Persians 🎓
+### <span dir="rtl" lang="fa">یادگیری هلندی برای ایرانی‌ها</span>
 
 A free, self-study course taking you from zero Dutch to a solid **A0 → A1** level (CEFR), with bilingual English/Persian explanations, themed vocabulary, and interactive quizzes in every lesson.
 
@@ -35,15 +35,20 @@ New here? Read **[How to use this course](/about/)** first — it takes two minu
 {% assign sorted = site.lessons | sort: "order" %}
 {% for l in sorted %}
   <li data-slug="{{ l.slug }}">
-    <a href="{{ l.url | relative_url }}">
-      {% if l.quiz_lesson %}📝{% else %}{{ l.order }}.{% endif %} {{ l.title }}
-    </a>
-    {% if l.quiz_lesson %}
-      <span class="level-badge level-quiz">Quiz</span>
-    {% else %}
-      <span class="level-badge level-{{ l.level }}">{{ l.level }}</span>
-    {% endif %}
-    <span class="lesson-progress-badge" data-progress-slot></span>
+    <div class="lesson-list-main">
+      <a href="{{ l.url | relative_url }}">
+        {% if l.quiz_lesson %}📝{% else %}{{ l.order }}.{% endif %} {{ l.title }}
+      </a>
+      {% if l.title_fa %}<span class="lesson-list-title-fa" dir="rtl" lang="fa">{{ l.title_fa }}</span>{% endif %}
+    </div>
+    <div class="lesson-list-badges">
+      <span class="lesson-progress-badge" data-progress-slot></span>
+      {% if l.quiz_lesson %}
+        <span class="level-badge level-quiz">Quiz</span>
+      {% else %}
+        <span class="level-badge level-{{ l.level }}">{{ l.level }}</span>
+      {% endif %}
+    </div>
   </li>
 {% endfor %}
 </ul>

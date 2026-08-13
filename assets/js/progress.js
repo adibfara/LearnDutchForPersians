@@ -63,6 +63,16 @@
     } catch (e) {}
   }
 
+  function resetQuiz(slug) {
+    if (!slug) return;
+    var data = load();
+    var entry = data.lessons[slug];
+    if (entry) {
+      delete entry.quiz;
+      save(data);
+    }
+  }
+
   function exportProgress() {
     var data = load();
     var blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
@@ -94,6 +104,7 @@
     markViewed: markViewed,
     recordQuizAnswer: recordQuizAnswer,
     reset: reset,
+    resetQuiz: resetQuiz,
     exportProgress: exportProgress,
     importProgress: importProgress
   };

@@ -29,7 +29,7 @@
       if (entry.viewed) viewedCount++;
 
       var parts = [];
-      if (entry.viewed) parts.push("✓ viewed");
+      if (entry.viewed) parts.push("✅");
       slot.className = "lesson-progress-badge";
       if (entry.quiz && entry.quiz.total) {
         var cls = scoreClass(entry.quiz.correct, entry.quiz.total);
