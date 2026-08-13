@@ -26,20 +26,34 @@
 
   function setMode(mode) {
     document.documentElement.classList.toggle("lang-en", mode === "en");
-    localStorage.setItem("dfp-lang-mode", mode);
-    var url = new URL(location.href);
-    url.searchParams.set("lang", mode);
-    history.replaceState(null, "", url);
-    toggleFaColumns(mode);
+    try {
+      localStorage.setItem("dfp-lang-mode", mode);
+    } catch (e) { /* localStorage unavailable (e.g. private mode) — ignore */ }
+    try {
+      var url = new URL(location.href);
+      url.searchParams.set("lang", mode);
+      history.replaceState(null, "", url);
+    } catch (e) { /* ignore */ }
+    try {
+      toggleFaColumns(mode);
+    } catch (e) {
+      console.error("lang.js: toggleFaColumns failed", e);
+    }
   }
 
   document.addEventListener("DOMContentLoaded", function () {
-    toggleFaColumns(currentMode());
+    // Attach the click handler FIRST — if the table-scan below throws,
+    // the toggle button must still work.
     var btn = document.getElementById("lang-toggle-btn");
     if (btn) {
       btn.addEventListener("click", function () {
         setMode(currentMode() === "en" ? "bilingual" : "en");
       });
+    }
+    try {
+      toggleFaColumns(currentMode());
+    } catch (e) {
+      console.error("lang.js: initial toggleFaColumns failed", e);
     }
   });
 })();

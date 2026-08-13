@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Dutch for Persians 🇳🇱
+# Dutch for Persians 🌷
 ### <span dir="rtl" lang="fa">هلندی برای فارسی‌زبانان</span>
 
 A free, self-study course taking you from zero Dutch to a solid **A0 → A1** level (CEFR), with bilingual English/Persian explanations, themed vocabulary, and interactive quizzes in every lesson.
